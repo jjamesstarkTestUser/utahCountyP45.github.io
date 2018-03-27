@@ -11,9 +11,7 @@ By creating and contributing to this project we intend enable delegates and citi
 We hope that this website provides valuable information about political candidates as well as the ideas and concerns of our community members. We plan to achieve this with community sourced profiles on the candidates and a transparent and accessible means to leverage the interactions our precinct delegates are having with candidates.
 
 ## Candidate profiles
-We want to provide profiles for all candidates (federal, state, county, and city) that will be on the ballots for our precinct this fall. Again, this information is community sourced with full transparency about who is sourcing the information by using github to manage all contributions, including edits.
-
-Find Profiles and Summaries Content Below
+We want to provide profiles for all candidates (federal, state, county, and city) that will be on the ballots for our precinct this fall. Again, this information is community sourced with full transparency about who is sourcing the information by using github to manage all contributions, including edits. **This is where we need the most help**
 
 [Federal Elections](/Candidates/federalElections.md)
 
@@ -35,8 +33,7 @@ In order to submit questions via git all you need to do is submit an issue.
 
 This requires you to create a free github account if you don't already have one. If you plan on being a regular participant or contributor with this project we suggest that you go ahead and create this account. It will enable to you be notified about the project.
 
-#### Submitting with Google Form
-If you'd rather not create a GitHub account you can submit comments and questions via google form. This will be automatically added to the project/repo as an issue.
+Other options will be available soon.
 
 ## Delegate Notes
 
