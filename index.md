@@ -37,4 +37,4 @@ Other options will be available soon.
 
 ## Delegate Notes
 
-Justin Stark, a county delegate, will be including all of his personal notes in this repository. This notes can be found [here](https://github.com/jjamesstark/ucP45/tree/master/Candidates/js_notes)
+Justin Stark, a county delegate, will be including all of his personal notes in this repository. These notes can be found [here](https://github.com/jjamesstark/ucP45/tree/master/Candidates/js_notes)
