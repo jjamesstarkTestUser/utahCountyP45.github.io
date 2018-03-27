@@ -1,7 +1,7 @@
 # Objectives
-1. Foster transparent communitcation with citizens, delegates, and candidates in order to amplify the voices of our own community.
-2. Cooperate in researching the relevant political offices, candidates, and issues in order to inform the members of our community.
-3. Organize ourselves locally in order to foster self-reliance and cohesion  within our community.
+1. Foster transparent communitcation with citizens, delegates, and candidates.
+2. Cooperate in researching the relevant political offices, candidates, and issues.
+3. Organize ourselves locally in order to foster self-reliance and cohesion.
 
 By creating and contributing to this project we intend enable delegates and citizens of the 45th precinct to find and publish information relevant to our community this election year. However, more important than party victories is assuring that our neighborhood is adequately organized and represented.
 
@@ -26,7 +26,7 @@ This requires you to create a free github account if you don't already have one.
 If you'd rather not create a GitHub account you can fill out [this google form](https://goo.gl/forms/ges6rKQ7yXKwRCXU2), which will automatically create an issue. Only your name, subject, and content will be posted to GitHub.
 
 ## Candidate profiles
-We want to provide profiles for all candidates (federal, state, county, and city) that will be on the ballots for our precinct this fall. Again, this information is community sourced with full transparency about who is sourcing the information by using github to manage all contributions, including edits. **This is where we need the most help**
+We want to provide profiles for all candidates (federal, state, county, and city) that will be on the ballots in our precinct. Again, this information is community sourced with full transparency about who is sourcing the information by using github to manage all contributions, including edits. **This is where we need the most help**
 
 [Federal Elections](/Candidates/federalElections.md)
 
