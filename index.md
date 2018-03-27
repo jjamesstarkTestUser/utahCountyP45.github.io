@@ -1,5 +1,5 @@
 ---
-title: UCP45 Welcome
+title: UCP45
 ---
 
 # Objectives
