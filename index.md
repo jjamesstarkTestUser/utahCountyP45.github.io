@@ -28,7 +28,7 @@ If relevant, please include to which candidate or public office you'd like to di
 
 #### Submitting with GitHub
 
-In order to submit questions via git all you need to do is [submit an issue](https://github.com/utahCountyP45/utahCountyP45.github.io/issues).
+In order to submit questions via git all you need to do is [create an issue](https://github.com/utahCountyP45/utahCountyP45.github.io/issues).
 ![github issue](img/githubIssue.png)
 
 This requires you to create a free github account if you don't already have one. If you plan on being a regular participant or contributor with this project we suggest that you go ahead and create this account. It will enable to you be notified about the project.
