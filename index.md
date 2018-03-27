@@ -11,7 +11,7 @@ By creating and contributing to this project we intend enable delegates and citi
 We hope that this website provides valuable information about political candidates as well as the ideas and concerns of our community members. We plan to achieve this with community sourced profiles on the candidates and a transparent and accessible means to leverage the interactions our precinct delegates are having with candidates.
 
 ## Community Questions & Comments
-In order to facilitate relevant conversation with the citizens in our community and the candidates running for public office we are attempting to facilitate this with github and google forms (for now). Not only will this make it easier for you to transparently communicate with and through our delegates, but it will allow for full transparency and hopefully reduce repetition.
+In order to facilitate relevant conversation with the citizens in our community and the candidates running for public office we are attempting to facilitate this with github and google forms. Not only will this make it easier for you to transparently communicate with and through our delegates, but it will allow for full transparency and hopefully reduce repetition.
 
 If relevant, please include to which candidate or public office you'd like to direct your question or comment.
 
