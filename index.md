@@ -17,12 +17,13 @@ If relevant, please include to which candidate or public office you'd like to di
 
 #### Submitting with GitHub
 
-In order to submit questions via git all you need to do is [create an issue](https://github.com/utahCountyP45/utahCountyP45.github.io/issues).
+In order to submit questions with GitHub all you need to do is [create an issue](https://github.com/utahCountyP45/utahCountyP45.github.io/issues).
 ![github issue](img/githubIssue.png)
 
 This requires you to create a free github account if you don't already have one. If you plan on being a regular participant or contributor with this project we suggest that you go ahead and create this account. It will enable to you be notified about the project.
 
-Other options will be available soon.
+#### Submitting with Google Forms
+If you'd rather not create a GitHub account you can fill out [this google form](https://goo.gl/forms/ges6rKQ7yXKwRCXU2), which will automatically create an issue. Only your name, subject, and content will be posted to GitHub.
 
 ## Candidate profiles
 We want to provide profiles for all candidates (federal, state, county, and city) that will be on the ballots for our precinct this fall. Again, this information is community sourced with full transparency about who is sourcing the information by using github to manage all contributions, including edits. **This is where we need the most help**
