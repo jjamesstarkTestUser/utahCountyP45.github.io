@@ -1,7 +1,7 @@
-# Mission
-1. Inform voters with locally and democratically sourced information about the elections, offices, and candidates relevant to our community.
-2. Provide transparent access to delegates and candidates in order to amplify the voices of our own community.
-3. Organize ourselves locally in order to improve community self reliance and foster community cohesion.
+# Objectives
+1. Provide transparent access to delegates and candidates in order to amplify the voices of our own community.
+2. Cooperate in researching and documenting the offices, candidates, and issues relevant to our community.
+3. Organize ourselves locally in order to foster self-reliance and cohesion  within our community.
 
 By creating and contributing to this project we intend enable delegates and citizens of the 45th precinct to find and publish information relevant to our community this election year. However, more important than party victories is assuring that our neighborhood is adequately organized and represented.
 
