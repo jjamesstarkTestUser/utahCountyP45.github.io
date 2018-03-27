@@ -1,4 +1,4 @@
-This site is meant to supply voters in the 45th precinct of Utah Countywith election information.
+This site is meant to supply voters in the 45th precinct of Utah County with election information.
 
 We are hosting on Github to allow for contributions from the community.
 
