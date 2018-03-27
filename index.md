@@ -11,7 +11,7 @@ By creating and contributing to this project we intend enable delegates and citi
 We hope that this website provides valuable information about political candidates as well as the ideas and concerns of our community members. We plan to achieve this with community sourced profiles on the candidates and a transparent and accessible means to leverage the interactions our precinct delegates are having with candidates.
 
 ## Community Questions & Comments
-In order to facilitate relevant conversation with the citizens in our community and the candidates running for public office we are attempting to facilitate this with github and google forms. Not only will this make it easier for you to transparently communicate with and through our delegates, but it will allow for full transparency and hopefully reduce repetition.
+We will be using GitGub and Google Forms to facilitate community comments and questions. Not only will this make it easier for you to transparently communicate with and through our delegates, but it will allow for full transparency and hopefully reduce redundant work.
 
 If relevant, please include to which candidate or public office you'd like to direct your question or comment.
 
@@ -26,7 +26,9 @@ This requires you to create a free github account if you don't already have one.
 If you'd rather not create a GitHub account you can fill out [this google form](https://goo.gl/forms/ges6rKQ7yXKwRCXU2), which will automatically create an issue. Only your name, subject, and content will be posted to GitHub.
 
 ## Candidate profiles
-We want to provide profiles for all candidates (federal, state, county, and city) that will be on the ballots in our precinct. Again, this information is community sourced with full transparency about who is sourcing the information by using github to manage all contributions, including edits. **This is where we need the most help**
+We want to provide profiles for all candidates (federal, state, county, and city) that will be on the ballots in our precinct. Again, this information is community sourced with full transparency about who is sourcing the information by using github to manage all contributions, including edits. 
+
+We hope members of our community are researching these things and we elected delegates to do exactly that. Why not work on this together?
 
 [Federal Elections](/Candidates/federalElections.md)
 
