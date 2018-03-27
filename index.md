@@ -42,6 +42,6 @@ We hope members of our community are researching these things and we elected del
 
 [Provo City Elections](/Candidates/cityElections.md)
 
-## Delegate Notes
+# Delegate Notes
 
 Justin Stark, a county delegate, will be including all of his personal notes in this repository. These notes can be found [here](https://github.com/jjamesstark/ucP45/tree/master/Candidates/js_notes)
