@@ -1,3 +1,7 @@
+---
+title: UCP45 Welcome
+---
+
 # Objectives
 1. Foster transparent communitcation with citizens, delegates, and candidates.
 2. Cooperate in researching the relevant political offices, candidates, and issues.
