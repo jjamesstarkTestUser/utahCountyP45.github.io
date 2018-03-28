@@ -2,15 +2,15 @@
 
 ## House District 64
 
-Norm Thurston,  Rep
+Norm Thurston, Republican
+Incumbent Since January 2015.
 
-Daniel Craig, Dem
+Daniel Craig, Democrat
+Graduated from BYU with a degree in Linguistics in 2012.
 
-Hal Miller, United Utah
+[Hal Miller, United Utah](Candidates/profiles/HD64_halMiller.md)
+Former City Councilman.
 
-Mary L. Warner, Rep
+Mary L. Warner, Republican
 
-Paul Reeb, Rep
-
-## State Board of Education
-(I don't think our District has any elections this year???)
+Paul Reeb, Republican

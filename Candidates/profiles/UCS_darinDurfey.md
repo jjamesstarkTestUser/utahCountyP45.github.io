@@ -3,6 +3,7 @@
 Campaign Website: durfeyforsheriff.com
 Current Position: Undersheriff
 Party Affiliation: Republican
+[Forms](docs/DOC_UCSheriff_Durfey.pdf)
 
 ## Summary
 
