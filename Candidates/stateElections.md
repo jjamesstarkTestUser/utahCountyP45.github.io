@@ -2,7 +2,7 @@
 
 ## House District 64
 
-[Norm Thurston, Republican](/profiles/HD64_normMiller.md)
+[Norm Thurston, Republican](/profiles/HD64_normThurston.md)
 
 *Incumbent Since January 2015.*
 
