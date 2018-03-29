@@ -1,5 +1,7 @@
 # Darin Durfey Profile
 
+## Summary
+
 Campaign Website: durfeyforsheriff.com
 
 Current Position: Undersheriff
@@ -7,8 +9,6 @@ Current Position: Undersheriff
 Party Affiliation: Republican
 
 [Forms](forms/DOC_UCSheriff_Durfey.pdf)
-
-## Summary
 
 
 ## In the Media

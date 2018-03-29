@@ -1,11 +1,13 @@
 # Hal Miller - Utah House Representative, 64th District
+
+
+## Summary
+
 Campaign website: None
 
 Party Affiliation: United Utah
 
 [Forms](/forms/DOC_H64_Hal_Miller.pdf)
-
-## Summary
 
 Former City Council Member
 

@@ -2,11 +2,11 @@
 
 ## House District 64
 
-Norm Thurston, Republican
+[Norm Thurston, Republican](/profiles/HD64_normMiller.md)
 
-Incumbent Since January 2015.
+*Incumbent Since January 2015.*
 
-Daniel Craig, Democrat
+[Daniel Craig, Democrat](/profiles/HD64_danielCraig.md)
 
 *Graduated from BYU with a degree in Linguistics in 2012*
 
@@ -14,6 +14,6 @@ Daniel Craig, Democrat
 
 *Former City Councilman.*
 
-Mary L. Warner, Republican
+[Mary L. Warner, Republican](/profiles/HD64_maryWarner.md)
 
-Paul Reeb, Republican
+[Paul Reeb, Republican](/profiles/HD64_paulReeb.md)
