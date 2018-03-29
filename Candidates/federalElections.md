@@ -3,61 +3,61 @@
 ## United State's Senate
 
 ### Republican Candidates
-Loy Brunson
+[Loy Brunson]()
 
-Alicia Colvin
+[Alicia Colvin](/profiles/US__Senate__Alicia_Colvin.md)
 
-Stoney Fonua
+[Stoney Fonua](/profiles/US__Senate__Stoney_Fonua.md)
 
-Jeremy Friedbaum
+[Jeremy Friedbaum](/profiles/US__Senate__Jeremy_Friedbaum.md)
 
-Abe Lincoln Brian Jenkins
+[Abe Lincoln Brian Jenkins](/profiles/US__Senate__Abe_Lincoln_Brian_Jenkins.md)
 
-Torrey Jenkins
+[Torrey Jenkins](/profiles/US__Senate__Torrey_Jenkins.md)
 
-Tim Jimenez
+[Tim Jimenez](/profiles/US__Senate__Tim_Jimenez.md)
 
-Joshua Lee
+[Joshua Lee](/profiles/US__Senate__Joshua_Lee.md)
 
-Mike Kennedy
+[Mike Kennedy](/profiles/US__Senate__Mike_Kennedy.md)
 
-Larry Meyers
+[Larry Meyers](/profiles/US__Senate__Larry_Meyers.md)
 
-Samuel Parker
+[Samuel Parker](/profiles/US__Senate__Samuel_Parker.md)
 
-Mitt Romney
+[Mitt Romney](/profiles/US__Senate__Mitt_Romney.md)
 
 ### Democratic Candidates
 
-Jeff Dransfield
+[Jeff Dransfield](/profiles/US__Senate__Jeff_Dransfield.md)
 
-Larry Livingston
+[Larry Livingston](/profiles/US__Senate__Larry_Livingston.md)
 
-Mitchell Vice
+[Mitchell Vice](/profiles/US__Senate__Mitchell_Vice.md)
 
-Jenny Wilson
+[Jenny Wilson](/profiles/US__Senate__Jenny_Wilson.md)
 
 ### Other Parties
 
-Craig Bowden, Libertarian
+[Craig Bowden, Libertarian](/profiles/US__Senate__Craig_Bowden.md)
 
-Tim Aalders, Constitution
+[Tim Aalders, Constitution](/profiles/US__Senate__Tim_Aalders.md)
 
-Reed McCandless, Independent American
+[Reed McCandless, Independent American](/profiles/US__Senate__Reed_McCandless.md)
 
 ## United Stated House of Representatives
 
 ### Republican Candidates
 
-John Curtis - Incumbent
+[John Curtis - Incumbent](/profiles/US__HD3__John_Curtis.md)
 
-Christopher Herrod
+[Christopher Herrod](/profiles/US__HD3__Christopher_Herrod.md)
 
-Henry Rudolph Kneitz III
+[Henry Rudolph Kneitz III](/profiles/US__HD3__Henry_Rudolph_Kneitz_III.md)
 
-Michael David Leavitt
+[Michael David Leavitt](/profiles/US__HD3__Michael_David_Leavitt.md)
 
-Steven Stromness
+[Steven Stromness](/profiles/US__HD3__Steven_Stromness.md)
 
 ### Democratic Candidates
 
@@ -65,4 +65,4 @@ Steven Stromness
 
 ### Other Party Candidates
 
-Melanie McCoard, United Utah
+[Melanie McCoard, United Utah](/profiles/US__HD3__Melanie_McCoard.md)
