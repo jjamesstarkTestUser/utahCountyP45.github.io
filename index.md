@@ -5,7 +5,7 @@ title: UCP45
 # Objectives
 1. Foster transparent communitcation with citizens, delegates, and candidates.
 2. Cooperate in researching the relevant political offices, candidates, and issues.
-3. Organize ourselves locally in order to foster self-reliance and cohesion.
+3. Organize ourselves locally in order to develop self-reliance and cohesion.
 
 By creating and contributing to this project we intend enable delegates and citizens of the 45th precinct to find and publish information relevant to our community this election year. However, more important than party victories is assuring that our neighborhood is adequately organized and represented.
 
