@@ -10,7 +10,7 @@ Daniel Craig, Democrat
 
 *Graduated from BYU with a degree in Linguistics in 2012*
 
-[Hal Miller, United Utah](Candidates/profiles/HD64_halMiller.md)
+[Hal Miller, United Utah](/profiles/HD64_halMiller.md)
 
 *Former City Councilman.*
 
