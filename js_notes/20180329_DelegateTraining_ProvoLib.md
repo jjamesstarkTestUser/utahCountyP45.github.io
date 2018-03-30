@@ -39,3 +39,11 @@ Asked: How do we get a sense of someone who is new on the scene?
 
   * Sourcing info from members of neighborhood
   * A lot of excitement about surveys / google forms
+
+> Thank you for reminding me [about Dennis Prager]
+
+Ben offered himself as a resource for new delegates or delegates with questions
+
+** A recurring though for me is the inherent problems of abstracting our ideas into some categorical or universal policy.**
+
+>“In my view, what has to be continually criticized in political thinking is the aspiration to a full incarnation of the universal in the particular, or the privileging of a specific particularity because it is believed to incarnate the universal: for example, the classical Hegelian idea of the state, the modish and vague idea of a European super-state, or the fantasy of the world-state. By contrast, democracy as democratization is the movement of disincarnation that challenges the borders and questions the legitimacy of the state. Democratization is a dissensual praxis that works against the consensual horizon of the state. Democratization is here conceived as a dual sequence of both micro-political articulations, movements and blocs at the level of civil society, and as a sequence of macro-political, trans-national articulations. ” - Simon Critchley
