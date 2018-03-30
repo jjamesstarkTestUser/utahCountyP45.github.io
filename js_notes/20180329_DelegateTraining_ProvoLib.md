@@ -15,7 +15,7 @@ Slide: Your Duties
 
 **Sheriff Debate - Wed April 4 (look up time) | Springville Jr High School - 189 S 1470 E**
 
-**Commissioner Debate - Tuesday April 10 (look up time)| Lehi Junior High - 700 E Cedar Hollow**
+**Commissioner Debate - Tuesday April 10 (look up time) | Lehi Junior High - 700 E Cedar Hollow**
 
 **Convention on the 14th, 7am. Timpview High.**
 
@@ -32,3 +32,10 @@ Advocated meeting the candidates in person.
 > We did say a prayer before this meeting right? We must all be believers.
 
 A lot of advocacy among delegates for truly representing precinct and their wishes
+
+Asked: How do we get a sense of someone who is new on the scene?
+
+> "Go to the neighborhood and knock on doors"
+
+  * Sourcing info from members of neighborhood
+  * A lot of excitement about surveys / google forms
