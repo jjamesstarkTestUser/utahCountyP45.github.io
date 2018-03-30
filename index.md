@@ -1,5 +1,6 @@
 ---
 title: UCP45
+published: true
 ---
 
 # Objectives
@@ -41,6 +42,12 @@ We hope members of our community are researching these things and we elected del
 [Utah County Elections](/Candidates/countyElections.md)
 
 [Provo City Elections](/Candidates/cityElections.md)
+
+#### Contributing Content
+
+The best way to contribute content is through GitHub. Though we can add content from Google Form entries, we won't have a great way of keeping you up to date if there is a question about your content. 
+
+Once signed into Github (and after you've verified your email if you've just signed up) it becomes incredibly easy to contribute. Fore more details please see our wiki. 
 
 # Delegate Notes
 
