@@ -26,3 +26,9 @@ County convention only voting for State and County offices
 
 Asked about convention votes on Signature Gathering
   > Norm Thurston Doesn't want to gather signatures, but uses it as an insurance policy
+
+Advocated meeting the candidates in person.
+
+> We did say a prayer before this meeting right? We must all be believers.
+
+A lot of advocacy among delegates for truly representing precinct and their wishes
