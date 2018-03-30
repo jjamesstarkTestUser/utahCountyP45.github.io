@@ -7,7 +7,7 @@ Campaign Website:
 
 Current Position:
 
-Party Affiliation:
+Party Affiliation: Republican
 
 [Forms](/forms/DOC_H64_Norm_Thurston.pdf)
 
