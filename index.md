@@ -52,3 +52,6 @@ Once signed into Github (and after you've verified your email if you've just sig
 # Delegate Notes
 
 Justin Stark, a county delegate, will be including all of his personal notes in this repository. These notes can be found [here](https://github.com/utahCountyP45/utahCountyP45.github.io/tree/master/js_notes)
+
+Hannah Petersen, a county and state delegate, will be including all of her personal notes [here](https://github.com/utahCountyP45/utahCountyP45.github.io/tree/master/hp_notes)
+
